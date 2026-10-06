@@ -1,6 +1,8 @@
 # Banking-Analysis-Dashboard
-Interactive 7-page Power BI banking dashboard covering customers, accounts, transactions, loans &amp; credit risk, and branch performance, with built-in forecasting and anomaly detection. Data from Kaggle
-🏦 Banking Dashboard — Power BI
+Interactive 7-page Power BI banking dashboard covering customers, accounts, transactions, loans &amp; credit risk, and branch performance, with built-in forecasting and anomaly detection. Data from Kaggle .
+
+---
+## 🏦 Banking Dashboard — Power BI
 
 An interactive, 7-page Power BI dashboard that analyses a retail bank's customers, accounts, transactions, loans, cards and branches, and adds **forecasting** and **anomaly detection** on top of the core KPIs.
 
