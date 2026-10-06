@@ -29,7 +29,9 @@ The goal of this project is to give bank managers one place to answer questions 
 
 The six forecast / anomaly metrics are: transaction count, customer count, account count, total transaction amount, loan count and average loan amount.
 
-🗂️ Data Model
+---
+
+## 🗂️ Data Model
 
 - **Data source:** Kaggle — [(https://www.kaggle.com/datasets/akrambelha/synthetic-banking-dataset-csv-sql-sqlite)]
 - **Connection mode:** Import
