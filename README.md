@@ -21,6 +21,8 @@ The goal of this project is to give bank managers one place to answer questions 
 
 
 ## 📊 Dashboard Pages
+| # | Page | What it shows |
+|---|------|---------------|
 | 1 | **Overview** | High-level KPIs, map, account/transaction trends and breakdowns |
 | 2 | **Customer & Accounts** | Customer distribution, account types, balances, cities |
 | 3 | **Transaction Analysis** | Transaction amounts and counts by merchant, city, card type and date |
