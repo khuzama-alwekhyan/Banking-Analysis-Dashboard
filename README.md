@@ -21,15 +21,21 @@ The goal of this project is to give bank managers one place to answer questions 
 
 
 ## 📊 Dashboard Pages
-| # | Page | What it shows |
-|---|------|---------------|
-| 1 | **Overview** | High-level KPIs, map, account/transaction trends and breakdowns |
+
+| 1 | **Overview** | KPIs, map, account/transaction trends and breakdowns |
+
 | 2 | **Customer & Accounts** | Customer distribution, account types, balances, cities |
+
 | 3 | **Transaction Analysis** | Transaction amounts and counts by merchant, city, card type and date |
+
 | 4 | **Loans & Credit Risk** | Loan amounts, interest-rate bands, credit-score bins, loan details table |
+
 | 5 | **Branch Performance** | Branch comparison, managers, map and matrix view |
+
 | 6 | **Forecast** | Six line charts with Power BI's built-in forecasting + written insight under each |
+
 | 7 | **Anomaly Detection** | The same six metrics with anomaly detection (95% sensitivity) + written insight |
+
 
 The six forecast / anomaly metrics are: transaction count, customer count, account count, total transaction amount, loan count and average loan amount.
 
