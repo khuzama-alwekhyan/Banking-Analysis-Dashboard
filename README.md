@@ -75,7 +75,7 @@ Custom elements: credit-score bins, amount bins, interest-rate bands, and measur
 
 ## ▶️ How to Open
 
-1. Download `Banking_dashboard.pbix` (check the **Releases** section if it is not in the file list).
+1. Download `Banking_dashboard.pbix` (check the **Releases** section ).
 2. Open it with the free [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows).
 3. The data is already imported inside the file, so no connection setup is needed.
 
@@ -85,7 +85,6 @@ Custom elements: credit-score bins, amount bins, interest-rate bands, and measur
 
 - [Write your first finding here, e.g. the most common account type]
 - [Which city or merchant has the highest transaction amount?]
-- [What does the credit-score distribution say about loan risk?]
 - [Which metric showed anomalies, and when?]
 
 ---
